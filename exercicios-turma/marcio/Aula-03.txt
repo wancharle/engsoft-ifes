@@ -1,0 +1,11 @@
+1 - O que é crise de software?
+	É uma expressão que surgiu no século passado para elucidar problemas no desenvolvimento de software que eram recorrentes.
+2 - O que é software?
+	É uma sequência de processos utilizados para executar uma determinada tarefa.
+3 - O que é Engenharia de Software?
+	É uma área da computação responsável por projetar a melhor técnilogia para um projeto expecifico. Levando em conta não apenas questões técnicas mas também de mercado.
+4 - Atributos de Software?
+	– Manutenibilidade: O software deve ser escrito de modo que possa evoluir para atender às necessidades de mudança dos clientes. É um atributo fundamental, pois a mudança de software é uma consequência inevitável de um ambiente de negócios em constante mutação;
+	– Confiança: O nível de confiança de um software tem uma série de características, incluindo confiabilidade, proteção e segurança. Um software confiável não deve causar danos físicos ou econômicos no caso de falha no sistema.
+	– Eficiência: O software não deve disperdiçar os recursos do sistema, como memória e ciclos do processador. Portanto, a eficiência inclui tempo de resposta, tempo de processamento, utilização de memória e etc;
+	– Usabilidade: O software deve ser usável, sem esforço excessivo, pelo tipo de usuário para o qual ele foi projetado. 
