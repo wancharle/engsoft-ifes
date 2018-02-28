@@ -1,0 +1,22 @@
+1) O que é a crise de software?
+R: A crise do software foi um termo utilizado nos anos 1970, quando a engenharia de software era praticamente inexistente. O termo expressava as dificuldades do desenvolvimento de software frente ao rápido crescimento da demanda por software, da complexidade dos problemas a serem resolvidos e da inexistência de técnicas estabelecidas para o desenvolvimento de sistemas que funcionassem adequadamente ou pudessem ser validados.
+
+2) O que é software?
+R: Segundo Sommerville, software é caracterizado como um programa de computador e toda a documentação associada a ele. Já Pressman define software como um elemento de sistema lógico, e não físico que não se desgasta.
+
+3) O que é engenharia de software?
+R:Engenharia de software é uma área da computação voltada à especificação, desenvolvimento, manutenção e criação de software, com a aplicação de tecnologias e práticas de gerência de projetos e outras disciplinas, visando organização, produtividade e qualidade. Atualmente, essas tecnologias e práticas englobam linguagens de programação, banco de dados, ferramentas, plataformas, bibliotecas, padrões de projeto de software, processo de software e qualidade de software.
+
+4) Atributos de software.
+R: O software deve atender os requisitos funcionais e desempenho que foram solicitados pelo usuário e além disso deve atender requisitos não funcionais, tais como facilidade de manutenção, nível de confiança, eficiência e facilidade de uso.
+-> Facilidade de manutenção
+Software deve ser escrito de modo que possa evoluir para atender as necessidades mutáveis.
+
+-> Nível de confiança
+Software confiável não deve ocasionar danos físicos ou econômicos, no caso de um defeito no sistema.
+
+->Eficiência
+O Software não deve desperdiçar os recursos do sistema.
+
+-> Facilidade de uso
+O Software deve ser utilizável, sem esforços indevidos, pelo usuário para quem foi projetado.
