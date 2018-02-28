@@ -1,0 +1,23 @@
+1- O que é crise de software?
+R: A crise do software foi um termo utilizado para descrever as dificuldades enfrentadas no desenvolvimento de software no fim da década de 60. A complexidade dos problemas,
+a ausência de técnicas bem estabelecidas e a crescente demanda por novas aplicações começavam a se tornar um problema sério. 
+
+2- O que é software?
+R: Software é um conjunto de programas de computador, que realiza procedimentos, dotado de regras, documentos e dados associados 
+
+
+3- O que é Engenharia de Softwate?
+R: Engenharia de software é uma área da computação voltada à especificação, desenvolvimento, manutenção e criação de software, com a aplicação de tecnologias e práticas de 
+gerência de projetos e outras disciplinas, visando organização, produtividade e qualidade.
+
+4- O que são atributos de Software?
+R: 
+-O software deve atender os requisitos funcionais e desempenho que foram solicitados pelo usuário e além disso deve atender requisitos não funcionais, tais como facilidade de manutenção, nível de confiança, eficiência e facilidade de uso.
+-Facilidade de manutenção
+-Software deve ser escrito de modo que possa evoluir para atender as necessidades mutáveis.
+-Nível de confiança
+-Software confiável não deve ocasionar danos físicos ou econômicos, no caso de um defeito no sistema.
+-Eficiência
+-O Software não deve desperdiçar os recursos do sistema.
+-Facilidade de uso
+-O Software deve ser utilizável, sem esforços indevidos, pelo usuário para quem foi projetado.
