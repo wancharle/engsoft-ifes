@@ -1,0 +1,11 @@
+1 - O que é crise de software?
+
+Desde o surgimento das primeiras empresas de desenvolvimento de softwares, divergencias entre as concepções de desenvolvimento, linguagens de programação e técnicas utilizada
+ocasionaram um cenário de total despadronização e organização no que tange o processo de desenvolvimento de softwares. A não adoção de uma metodologia concisa neste processo
+acarretou a chamada crise de software. 
+
+2 - O que é software?
+
+3 - O que é Engenharia de Software?
+
+4 - Atributos de Software?
